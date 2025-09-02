@@ -1,3 +1,4 @@
+from .methods import fiscal
 import pandas as pd
 
 @pd.api.extensions.register_series_accessor("fiscal")
