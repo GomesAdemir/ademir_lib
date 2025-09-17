@@ -1,9 +1,0 @@
-pyproject.toml
-ademir_lib/__init__.py
-ademir_lib.egg-info/PKG-INFO
-ademir_lib.egg-info/SOURCES.txt
-ademir_lib.egg-info/dependency_links.txt
-ademir_lib.egg-info/requires.txt
-ademir_lib.egg-info/top_level.txt
-ademir_lib/methods/__init__.py
-ademir_lib/methods/calc_japanese_fiscal_year.py
